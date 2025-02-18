@@ -1,0 +1,40 @@
+*{
+    color: wheat;
+    font-family: Arial;
+}
+
+body{
+    background-color: #167587;
+}
+
+#dev_img{
+    display: block;
+    margin: 0 auto;
+}
+
+p, h1{
+    text-align: center;
+}
+
+h1 {
+    margin: 0;
+}
+
+#description{
+    text-align: center;
+}
+
+#developer
+{
+    font-weight: bold;
+}
+
+#welcome
+{
+    text-decoration: underline;
+}
+
+#html_logo
+{
+    width: 200px;
+}
